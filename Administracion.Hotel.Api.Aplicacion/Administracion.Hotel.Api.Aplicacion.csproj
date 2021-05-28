@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Administracion.Hotel.Api.AccesoDatos.Contrato\Administracion.Hotel.Api.AccesoDatos.Contrato.csproj" />
+    <ProjectReference Include="..\Administracion.Hotel.Api.AccesoDatos\Administracion.Hotel.Api.AccesoDatos.csproj" />
+    <ProjectReference Include="..\Administracion.Hotel.Api.Aplicacion.Contrato\Administracion.Hotel.Api.Aplicacion.Contrato.csproj" />
+  </ItemGroup>
+
+</Project>
